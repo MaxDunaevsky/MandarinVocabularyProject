@@ -1,5 +1,5 @@
 # MandarinVocabularyProject
-... project for memorizing mandarin vocabulary ...
+... project for memorizing Mandarin vocabulary ...
 
 Highly recommend using MandaringVocabularyProject with up-to-date version of 
 Opera (http://www.opera.com) 
